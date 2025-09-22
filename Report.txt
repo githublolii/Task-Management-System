@@ -1,0 +1,11 @@
+No performed tasks.
+
+Undone Tasks:
+Task details: ID: 15 | Name: submit project 1 | Date: 5/4/2025 | Duration: 0.1 hours
+Task details: ID: 14 | Name: study COMP2421 course | Date: 24/3/2025 | Duration: 3.6 hours
+
+Unperformed Tasks:
+Task details: ID: 13 | Name: visit grandparents | Date: 24/3/2025 | Duration: 7.0 hours
+Task details: ID: 12 | Name: shopping | Date: 21/3/2025 | Duration: 5.5 hours
+Task details: ID: 11 | Name: attend lecture | Date: 25/3/2025 | Duration: 3.0 hours
+Task details: ID: 10 | Name: meeting | Date: 22/3/2025 | Duration: 1.5 hours
